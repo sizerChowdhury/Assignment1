@@ -1,0 +1,7 @@
+hello
+world
+<<<<<<< HEAD
+new
+=======
+hello_people
+>>>>>>> feature-branch
