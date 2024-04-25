@@ -1,7 +1,7 @@
 hello
-world
 <<<<<<< HEAD
+world
+hello_people
 new
 =======
-hello_people
->>>>>>> feature-branch
+>>>>>>> parent of 72ddfc3 (file1 was edited under the 'feature-branch')
